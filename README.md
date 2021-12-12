@@ -15,7 +15,7 @@
 
 ```py
 mahmutucar = {
-  "Job" : "Remote Monitoring Operator",
+  "Job" : "Developer",
   "Knowledge" : ["Python","C#","JS","Java","C Languages","Angular","ASP.NET","CSS & HTML","SQL","Flutter","React","Adobe Master Collection"]
 }
 ```
